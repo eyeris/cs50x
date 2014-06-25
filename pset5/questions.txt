@@ -1,0 +1,17 @@
+0.  This is a disease actually and this is the longest word in English Language
+
+1.Returns resourses sauge statistics for who
+
+2.16
+
+3.Because of they are structs
+
+4.The main function get values for the dictionary file and the text to be checked. And after that the for loop reads character by character and ignoring the non characters except '. This is how it creates words.
+	Then It goes to check for mispelings.
+
+5.fgetc takes one character at time so it is easier to validate the text inputs other than numerical and non alphabetical characters than scanf.
+6.The numbers of the words in the dictionery is a constant or the maximum characters in a word is a constant. (I am guesing.
+7. The nodes are linked list that contains the words.(a node contain a word and the pointer to the next one) and a hash table.
+8.I wasnt checking the speed as there are some erros with the code so I was commneting out some parts to debug those errors.
+9.I was doing as the problem specs so I havent added any features as of the limited time I got to submit it.
+10.Havent found but there can be as I was in a rush to finish this as of limited time. It passes the cs50 submit tests so I wasnt checking it anymore.
